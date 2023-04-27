@@ -69,7 +69,3 @@
 - **[Decomposition Patterns](https://developersummit.com/session/decomposition-patterns)** - *Mark Richards*
 
 # Networking
-
-- With Venkant Subramaniam
-
-![With Venkant Subramaniam](https://drive.google.com/file/d/1x6fa9i-O2FagP3KT4pc71pstuar79tiw/view?usp=share_link)
