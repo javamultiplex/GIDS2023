@@ -34,3 +34,14 @@
 - **[Six Essential Soft Skills for the Software Architect](https://developersummit.com/session/six-essential-soft-skills-for-the-software-architect)** - *Michael Carducci*
 - **[Code Review, you said?](https://developersummit.com/session/code-review-you-said)** - *Venkat Subramaniam*
 - **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
+
+#### 28<sup>th</sup> April 2023
+- **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford*
+- **[Is your Code Net-zero?](https://developersummit.com/session/is-your-code-net-zero)** - *Gunasundari Sridhar*
+- **[Exploring the World-class Finnish Quantum Technology Ecosystem](https://developersummit.com/session/exploring-the-world-class-finnish-quantum-technology-ecosystem)** - *Mika Tirronen*
+- **[Boost Developer Productivity with Open Cloud Native Java](https://developersummit.com/session/boost-developer-productivity-with-open-cloud-native-java)** - *Gireesh Punathil*, *Mohanraj Loganathan*
+- **[Testing Software Architecture](https://developersummit.com/session/testing-software-architecture)** - *Mark Richards*
+- **[Granularity & Communication for Microservice Architectures](https://developersummit.com/session/granularity-communication-for-microservice-architectures)** - *Neal Ford*
+- **[Spring Apps at Scale - from 0 to 5B to 100B+ Requests](https://developersummit.com/session/spring-apps-at-scale-from-0-to-5b-to-100b-requests)** - *Josh Long*, *Asir Selvasingh*
+- **[Decomposition Patterns](https://developersummit.com/session/decomposition-patterns)** - *Mark Richards*
+
