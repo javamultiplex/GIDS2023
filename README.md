@@ -72,4 +72,4 @@
 
 - With Venkant Subramaniam
 
-![With Venkant Subramaniam](https://github.com/javamultiplex/GIDS2023/blob/main/images/IMG_0303.jpeg)
+![With Venkant Subramaniam](/images/IMG_0303.jpeg)
