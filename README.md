@@ -24,3 +24,13 @@
 - **[Bootiful Spring Boot 3](https://developersummit.com/session/bootiful-spring-boot-3)** - *Josh Long*
 - **[Transforming Data using the Functional API](https://developersummit.com/session/transforming-data-using-the-functional-api)** - *Venkat Subramaniam*
 - **[Designing Applications with Functional Programming Constructs](https://developersummit.com/session/designing-applications-with-functional-programming-constructs)** - *Venkat Subramaniam*
+
+#### 27<sup>th</sup> April 2023
+- **[How to Think Like an Architect](https://developersummit.com/session/how-to-think-like-an-architect)** - *Mark Richards*
+- **[25 Years of Software Development: Inside the Zoho Success Story](https://developersummit.com/session/25-years-of-software-development-inside-the-zoho-success-story)** - *Hyther Nizam*
+- **[Agile Architecture: Impactful Change for Complex Orgs](https://developersummit.com/session/agile-architecture-impactful-change-for-complex-orgs)** - *Rick Maharaj*
+- **[Software Architecture: The Hard Parts](https://developersummit.com/session/software-architecture-the-hard-parts)** - *Neal Ford*
+- **[Patterns of Event-Driven Architecture](https://developersummit.com/session/patterns-of-event-driven-architecture)** - *Mark Richards*
+- **[Six Essential Soft Skills for the Software Architect](https://developersummit.com/session/six-essential-soft-skills-for-the-software-architect)** - *Michael Carducci*
+- **[Code Review, you said?](https://developersummit.com/session/code-review-you-said)** - *Venkat Subramaniam*
+- **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
