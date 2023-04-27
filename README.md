@@ -72,4 +72,4 @@
 
 - With Venkant Subramaniam
 
-![With Venkant Subramaniam](/images/IMG_0303.jpeg)
+![With Venkant Subramaniam](https://drive.google.com/file/d/1x6fa9i-O2FagP3KT4pc71pstuar79tiw/view?usp=share_link)
