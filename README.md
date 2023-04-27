@@ -3,6 +3,28 @@
 ## Schedule
 25th - 28th April 2023, Bangalore
 
+## Speakers
+- [Venkat Subramaniam](https://developersummit.com/speaker/venkat-subramaniam)
+- [Michael Carducci](https://developersummit.com/speaker/michael-carducci)
+- [Mark Richards](https://developersummit.com/speaker/mark-richards)
+- [Neal Ford](https://developersummit.com/speaker/neal-ford)
+- [Duncan Ng](https://developersummit.com/speaker/duncan-ng)
+- [Ganesh Lakshminarayanan](https://developersummit.com/speaker/ganesh-lakshminarayanan)
+- [Gunasundari Sridhar](https://developersummit.com/speaker/guna-sundari-sridhar)
+- [Hyther Nizam](https://developersummit.com/speaker/hyther-nizam)
+- [Lakshmi Prasad Koneti](https://developersummit.com/speaker/lakshmi-prasad-koneti)
+- [Rajeev Purohit](https://developersummit.com/speaker/rajeev-purohit)
+- [Prashanth Subrahmanyam](https://developersummit.com/speaker/prashanth-subrahmanyam)
+- [Rick Maharaj](https://developersummit.com/speaker/rick-maharaj)
+- [Daniel Oh](https://developersummit.com/speaker/daniel-oh)
+- [Emily Jiang](https://developersummit.com/speaker/emily-jiang)
+- [Josh Long](https://developersummit.com/speaker/josh-long)
+- [Mary Grygleski](https://developersummit.com/speaker/mary-grygleski)
+- [Rohit Bhardwaj](https://developersummit.com/speaker/rohit-bhardwaj)
+- [Asir Selvasingh](https://developersummit.com/speaker/asir-selvasingh)
+- [Mika Tirronen](https://developersummit.com/speaker/mika-tirronen)
+- [Kenneth Kousen](https://developersummit.com/speaker/kenneth-kousen)
+
 ## Sessions Attended
 #### 25<sup>th</sup> April 2023
 - **[Decision Dials](https://developersummit.com/session/decision-dials)** - *Venkat Subramaniam*
@@ -18,6 +40,7 @@
 - **[Sufficiently Advanced Technology, Software, & Sorcery](https://developersummit.com/session/sufficiently-advanced-technology-software-sorcery)** - *Michael Carducci* 
 - **[Democratizing Access to GPUs for Faster ML/AI Innovation with Generative AI](https://developersummit.com/session/democratizing-access-to-gpus-for-faster-mlai-innovation-with-generative-ai)** - *Duncan Ng*
 - **[Journey to 500M - An Engineer’s view](https://developersummit.com/session/journey-to-500m-an-engineers-view)** - *Rajeev Purohit*
+- **[Future with Large Language Models](https://developersummit.com/session/future-with-large-language-models)** - *Prashanth Subrahmanyam*
 - **[15 Best Practices for Designing Enterprise RESTful APIs in the Cloud](https://developersummit.com/session/15-best-practices-for-designing-enterprise-restful-apis-in-the-cloud)** - *Rohit Bhardwaj*
 - **[How to Approach Refactoring](https://developersummit.com/session/how-to-approach-refactoring)** - *Venkat Subramaniam*
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
@@ -39,7 +62,7 @@
 - **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford*
 - **[Is your Code Net-zero?](https://developersummit.com/session/is-your-code-net-zero)** - *Gunasundari Sridhar*
 - **[Exploring the World-class Finnish Quantum Technology Ecosystem](https://developersummit.com/session/exploring-the-world-class-finnish-quantum-technology-ecosystem)** - *Mika Tirronen*
-- **[Boost Developer Productivity with Open Cloud Native Java](https://developersummit.com/session/boost-developer-productivity-with-open-cloud-native-java)** - *Gireesh Punathil*, *Mohanraj Loganathan*
+- **[Upgrade to Modern Java](https://developersummit.com/session/upgrade-to-modern-java)** - *Kenneth Kousen*
 - **[Testing Software Architecture](https://developersummit.com/session/testing-software-architecture)** - *Mark Richards*
 - **[Granularity & Communication for Microservice Architectures](https://developersummit.com/session/granularity-communication-for-microservice-architectures)** - *Neal Ford*
 - **[Spring Apps at Scale - from 0 to 5B to 100B+ Requests](https://developersummit.com/session/spring-apps-at-scale-from-0-to-5b-to-100b-requests)** - *Josh Long*, *Asir Selvasingh*
