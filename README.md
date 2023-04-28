@@ -69,11 +69,35 @@
 
 ## Take Away
 
+- **Testing Software Architecture**
+   1. Operational Characteristics
+      - Performance
+      - responsiveness
+      - availability
+      - scalability
+      - elasiticity
+      - data intigrity
+      - fault tolerance
+      - data consistency
+      - recoverability
+      - security
+      - concurrency
+      - reliability
+   2. Structural Integrity - *The law of demeter (principle of least knowledge)*
+      - [ArchUnit](https://www.archunit.org/) - *Unit test java architecture*
+   4. Fitness functions - *An architectural fitness function provides an objective integrity assesement of some architectureal characteristic(s).*
+      - Triggered - *Pre Production*
+      - Continious - *Post Production*
+
 - **Decomposition Patterns**
-  1. Identify and size logical components
-  1. Flatten components
-  1. Analyze component dependencies
-  1. Create domain component
-  1. Create domain service
-  1. Microservices system
+   1. Identify and size logical components - *The larger the component the more coupled it is from rest of the system*
+   2. Flatten components - *Root namespaces(packages) should not have any code in it*
+   3. Analyze component dependencies - *There are tools available*
+      - [Xray (Eclipse Plugin)](https://marketplace.eclipse.org/content/x-ray-software-visualization)
+      - [Sonargraph](https://www.hello2morrow.com/products/sonargraph)
+   4. Create domain component
+   5. Create domain service
+   6. Microservices system - 
+      - It is not mandatory to break each domain service to microservices
+      - Each microservice should have seperate database
 
