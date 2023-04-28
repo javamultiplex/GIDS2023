@@ -68,8 +68,19 @@
 
 
 ## Take Away
+#### Granularity & Communication for Microservice Architectures
+  1. Service granularity disintegrators - *When should I consider breaking apart a service*
+     - service functionality
+     - code volatality
+     - throughput and scalability
+     - fault tolerance
+     - access restriction
+  2. Service granularity integrators - *When should I consider putting services back together*
+     - database transactions
+     - data dependencies
+     - workflow & coreography  
 
-- **Testing Software Architecture**
+#### Testing Software Architecture
    1. Operational Characteristics
       - Performance
       - responsiveness
@@ -85,11 +96,11 @@
       - reliability
    2. Structural Integrity - *The law of demeter (principle of least knowledge)*
       - [ArchUnit](https://www.archunit.org/) - *Unit test java architecture*
-   4. Fitness functions - *An architectural fitness function provides an objective integrity assesement of some architectureal characteristic(s).*
+   3. Fitness functions - *An architectural fitness function provides an objective integrity assesement of some architectureal characteristic(s).*
       - Triggered - *Pre Production*
       - Continious - *Post Production*
 
-- **Decomposition Patterns**
+#### Decomposition Patterns
    1. Identify and size logical components - *The larger the component the more coupled it is from rest of the system*
    2. Flatten components - *Root namespaces(packages) should not have any code in it*
    3. Analyze component dependencies - *There are tools available*
