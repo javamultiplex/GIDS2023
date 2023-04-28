@@ -68,6 +68,8 @@
 
 
 ## Take Away
+### Meta-modern Software Architecture
+  1. 
 ### Granularity & Communication for Microservice Architectures
   1. Service granularity disintegrators - *When should I consider breaking apart a service*
      - service functionality
@@ -79,7 +81,10 @@
      - database transactions
      - data dependencies
      - workflow & coreography  
-
+  3. Transactional Sagas - *Total 8 sagas possible based on below combinations*
+     - Communication - Sync/Async
+     - Consistency - Atomic/Eventual
+     - Coordination - Orchestration/Choreography
 ### Testing Software Architecture
    1. Operational Characteristics
       - Performance
@@ -99,6 +104,12 @@
    3. Fitness functions - *An architectural fitness function provides an objective integrity assesement of some architectureal characteristic(s).*
       - Triggered - *Pre Production*
       - Continious - *Post Production*
+
+### Spring Apps at Scale - from 0 to 5B to 100B+ Requests
+   1. [Azure Spring Apps](https://azure.microsoft.com/en-au/products/spring-apps/) - *Build and deploy Spring Boot applications with a fully managed service from Microsoft and VMware.*
+   2. Spring Cache
+   3. Reactive Spring
+   4. Spring Native - GraalVM
 
 ### Decomposition Patterns
    1. Identify and size logical components - *The larger the component the more coupled it is from rest of the system*
