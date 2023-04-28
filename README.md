@@ -69,7 +69,10 @@
 
 ## Take Away
 ### Meta-modern Software Architecture
-  1. 
+  1. Prefer duplication over coupling
+  2. Data Mesh - *A data mesh is a decentralized data architecture that organizes data by a specific business domain—for example, marketing, sales, customer service, and more—providing more ownership to the producers of a given dataset*
+  3. Service Mesh - *In software architecture, a service mesh is a dedicated infrastructure layer for facilitating service-to-service communications between services or microservices using a proxy*
+
 ### Granularity & Communication for Microservice Architectures
   1. Service granularity disintegrators - *When should I consider breaking apart a service*
      - service functionality
