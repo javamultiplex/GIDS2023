@@ -104,8 +104,10 @@
   2. Service granularity integrators - *When should I consider putting services back together*
      - database transactions
      - data dependencies
-     - workflow & coreography  
-  3. Transactional Sagas - *Total 8 sagas possible based on below combinations*
+     - workflow & coreography 
+  3. Difference between Synchronous and Asynchronous communication
+  4. Difference between Orchetration and Choreography workflows
+  5. Transactional Sagas - *Total 8 sagas possible based on below combinations*
      - Communication - Sync/Async
      - Consistency - Atomic/Eventual
      - Coordination - Orchestration/Choreography
