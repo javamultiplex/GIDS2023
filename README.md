@@ -68,7 +68,7 @@
 
 
 ## Take Away
-#### Granularity & Communication for Microservice Architectures
+### Granularity & Communication for Microservice Architectures
   1. Service granularity disintegrators - *When should I consider breaking apart a service*
      - service functionality
      - code volatality
@@ -80,7 +80,7 @@
      - data dependencies
      - workflow & coreography  
 
-#### Testing Software Architecture
+### Testing Software Architecture
    1. Operational Characteristics
       - Performance
       - responsiveness
@@ -100,7 +100,7 @@
       - Triggered - *Pre Production*
       - Continious - *Post Production*
 
-#### Decomposition Patterns
+### Decomposition Patterns
    1. Identify and size logical components - *The larger the component the more coupled it is from rest of the system*
    2. Flatten components - *Root namespaces(packages) should not have any code in it*
    3. Analyze component dependencies - *There are tools available*
