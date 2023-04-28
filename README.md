@@ -73,6 +73,27 @@
   2. Data Mesh - *A data mesh is a decentralized data architecture that organizes data by a specific business domain—for example, marketing, sales, customer service, and more—providing more ownership to the producers of a given dataset*
   3. Service Mesh - *In software architecture, a service mesh is a dedicated infrastructure layer for facilitating service-to-service communications between services or microservices using a proxy*
 
+### Upgrade to Modern Java
+  1. Java is Agile because of 6 month release cycle after Java 10.
+  2. JDK 20 released in March 2023 and JDK 17 is LTS.
+  3. Function Interface
+      - Consumer - *Take input and return nothing*
+      - Supplier - *Take no input and return output*
+      - Function - *Take input and return output*
+      - Predicate - *Take input and return boolean*
+  5. Stream API
+  6. Lambda Function
+  7. CompletableFuture
+  8. Type Inference
+  9. var keyword
+  10. Http Client
+  11. Text Blocks
+  12. Record
+  13. Sealed classes/interfaces
+  14. Switch expressions
+  15. Pattern matching for switch expressions
+  16. JPMS(Java Platform Module System) is good for only public libraries
+
 ### Granularity & Communication for Microservice Architectures
   1. Service granularity disintegrators - *When should I consider breaking apart a service*
      - service functionality
