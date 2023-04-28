@@ -22,7 +22,6 @@
 - [Mary Grygleski](https://developersummit.com/speaker/mary-grygleski)
 - [Rohit Bhardwaj](https://developersummit.com/speaker/rohit-bhardwaj)
 - [Asir Selvasingh](https://developersummit.com/speaker/asir-selvasingh)
-- [Mika Tirronen](https://developersummit.com/speaker/mika-tirronen)
 - [Kenneth Kousen](https://developersummit.com/speaker/kenneth-kousen)
 
 ## Sessions Attended
@@ -67,4 +66,14 @@
 - **[Spring Apps at Scale - from 0 to 5B to 100B+ Requests](https://developersummit.com/session/spring-apps-at-scale-from-0-to-5b-to-100b-requests)** - *Josh Long*, *Asir Selvasingh* :thumbsup:
 - **[Decomposition Patterns](https://developersummit.com/session/decomposition-patterns)** - *Mark Richards* :thumbsup:
 
-# Networking
+
+## Take Away
+
+- **Decomposition Patterns**
+  1. Identify and size logical components
+  2. Flatten components
+  3. Analyze component dependencies
+  4. Create domain component
+  5. Create domain service
+  6. Microservices system
+
