@@ -68,6 +68,11 @@
 
 
 ## Take Away
+### How to Think Like an Architect
+  1. Read these books
+     - Fundamental of Software Architecture
+     - Software Archiecture - The Hard Part
+  2. The first law of software archiecture - *Everything in software architecture is a tradeoff* 
 ### Meta-modern Software Architecture
   1. Prefer duplication over coupling
   2. Data Mesh - *A data mesh is a decentralized data architecture that organizes data by a specific business domain—for example, marketing, sales, customer service, and more—providing more ownership to the producers of a given dataset*
@@ -107,10 +112,12 @@
      - workflow & coreography 
   3. Difference between Synchronous and Asynchronous communication
   4. Difference between Orchetration and Choreography workflows
-  5. Transactional Sagas - *Total 8 sagas possible based on below combinations*
+  5. Distributed transactions are very difficult to implement, if possible we should try to avoid it
+  6. Transactional Sagas - *Total 8 sagas possible based on below combinations*
      - Communication - Sync/Async
      - Consistency - Atomic/Eventual
      - Coordination - Orchestration/Choreography
+      
 ### Testing Software Architecture
    1. Operational Characteristics
       - Performance
