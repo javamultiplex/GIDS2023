@@ -73,6 +73,11 @@
      - Fundamental of Software Architecture
      - Software Archiecture - The Hard Part
   2. The first law of software archiecture - *Everything in software architecture is a tradeoff* 
+  3. Daily invest atleast 20 mins on yourself to increase technical breadth
+     - [InfoQ](https://www.infoq.com/)
+     - [Dzone Refcards](https://dzone.com/refcardz)
+     - [Thoughtworks Radar](https://www.thoughtworks.com/radar)
+
 ### Meta-modern Software Architecture
   1. Prefer duplication over coupling
   2. Data Mesh - *A data mesh is a decentralized data architecture that organizes data by a specific business domain—for example, marketing, sales, customer service, and more—providing more ownership to the producers of a given dataset*
