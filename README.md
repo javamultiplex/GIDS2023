@@ -59,13 +59,12 @@
 - **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
 
 #### 28<sup>th</sup> April 2023
-- **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford*
+- **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford* :thumbsup:
 - **[Is your Code Net-zero?](https://developersummit.com/session/is-your-code-net-zero)** - *Gunasundari Sridhar*
-- **[Exploring the World-class Finnish Quantum Technology Ecosystem](https://developersummit.com/session/exploring-the-world-class-finnish-quantum-technology-ecosystem)** - *Mika Tirronen*
-- **[Upgrade to Modern Java](https://developersummit.com/session/upgrade-to-modern-java)** - *Kenneth Kousen*
-- **[Testing Software Architecture](https://developersummit.com/session/testing-software-architecture)** - *Mark Richards*
-- **[Granularity & Communication for Microservice Architectures](https://developersummit.com/session/granularity-communication-for-microservice-architectures)** - *Neal Ford*
-- **[Spring Apps at Scale - from 0 to 5B to 100B+ Requests](https://developersummit.com/session/spring-apps-at-scale-from-0-to-5b-to-100b-requests)** - *Josh Long*, *Asir Selvasingh*
-- **[Decomposition Patterns](https://developersummit.com/session/decomposition-patterns)** - *Mark Richards*
+- **[Upgrade to Modern Java](https://developersummit.com/session/upgrade-to-modern-java)** - *Kenneth Kousen* :thumbsup:
+- **[Testing Software Architecture](https://developersummit.com/session/testing-software-architecture)** - *Mark Richards* :thumbsup:
+- **[Granularity & Communication for Microservice Architectures](https://developersummit.com/session/granularity-communication-for-microservice-architectures)** - *Neal Ford* :thumbsup:
+- **[Spring Apps at Scale - from 0 to 5B to 100B+ Requests](https://developersummit.com/session/spring-apps-at-scale-from-0-to-5b-to-100b-requests)** - *Josh Long*, *Asir Selvasingh* :thumbsup:
+- **[Decomposition Patterns](https://developersummit.com/session/decomposition-patterns)** - *Mark Richards* :thumbsup:
 
 # Networking
