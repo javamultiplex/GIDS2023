@@ -71,9 +71,9 @@
 
 - **Decomposition Patterns**
   1. Identify and size logical components
-  2. Flatten components
-  3. Analyze component dependencies
-  4. Create domain component
-  5. Create domain service
-  6. Microservices system
+  1. Flatten components
+  1. Analyze component dependencies
+  1. Create domain component
+  1. Create domain service
+  1. Microservices system
 
