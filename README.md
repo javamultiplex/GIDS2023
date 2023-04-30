@@ -86,7 +86,21 @@
    1. Don't do heavy lifting in user thread.
    2. Don't trust any input from user.
    3. No single point of failure at ant level.
+
+### Patterns of Event-Driven Architecture
+   1. Event Driven vs Message Driven
    
+   |Event Driven|Message Driven|
+   |------------|--------------|
+   |Broadcast message to everyone|Broadcast message to only known|
+   |Topic|Queue|
+   |Topic owner is sender|Queue owner is reciever|
+   |Topic owner own's request payload|Queue owner own's request payload|
+   
+   2. Event forwarding pattern
+   3. Domain broker pattern
+   4. Workflow state pattern
+
 ### Software Architecture: The Hard Parts 
   1. How to analyze Trade-offs?
       - Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
