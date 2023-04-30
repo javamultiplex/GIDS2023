@@ -43,8 +43,32 @@
 - **[15 Best Practices for Designing Enterprise RESTful APIs in the Cloud](https://developersummit.com/session/15-best-practices-for-designing-enterprise-restful-apis-in-the-cloud)** - *Rohit Bhardwaj*
 - **[How to Approach Refactoring](https://developersummit.com/session/how-to-approach-refactoring)** - *Venkat Subramaniam* :thumbsup:
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
+  1. KEDA (Kubernetes Event Driven Autoscalling)
+  2. Quarkus
+  3. Openshift
+  4. kafka
+  5. Knative
+  6. Prometheus
 - **[Bootiful Spring Boot 3](https://developersummit.com/session/bootiful-spring-boot-3)** - *Josh Long* :thumbsup:
+  1. Java 17
+  2. Spring framework 6 & Jakarta EE 9
+  3. Observibility
+  4. GraalVM Native image support
+  5. New HTTP Client using WebClient under the hood
+  6. ProblemDetail usage
+
 - **[Transforming Data using the Functional API](https://developersummit.com/session/transforming-data-using-the-functional-api)** - *Venkat Subramaniam* :thumbsup:
+  1. sum()
+  2. min()
+  3. max()
+  4. count()
+  5. toMap()
+  6. toList()
+  7. toSet()
+  8. Joining()
+  9. Partionining()
+  10. Grouping()
+  11. Teeing()
 - **[Designing Applications with Functional Programming Constructs](https://developersummit.com/session/designing-applications-with-functional-programming-constructs)** - *Venkat Subramaniam* :thumbsup:
 
 #### 27<sup>th</sup> April 2023
