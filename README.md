@@ -103,6 +103,47 @@
    5. Empthy - *Empthy means feeling with, Sympathy means feeling for*
    6. Curosity
 - **[Code Review, you said?](https://developersummit.com/session/code-review-you-said)** - *Venkat Subramaniam* :thumbsup:
+   1. First law of Programming
+      - Lowering quality lengthens development time.
+      - We can't be agile if code sucks.
+   2. What is agile development
+      - It is not about standup, scrum and velocity.
+      - It is feedback driven development.
+   3. Types of feedback
+      - Active use of the product
+      - From automated tests
+      - Code reviews 
+         - Pair rotation
+         - Technical and social
+    4. Reviewer
+       - Help others learn
+       - Learn thing you didn't know
+       - Get familiar with application data
+    5. Team
+       - Refactoring of code to reduce cost of changes
+       - Collective ownership
+       - Reduces truck factor
+       - Reduces a single point of failure
+    6. Never review code that has not 
+       - Been compiled
+       - Passed test
+       - Code quality
+    7. Start with the tests
+       - Are the tests easy to understand
+       - Are they short
+       - AAA - Arrange -> Act -> Assert
+    8. Code reviews are effective when developers ask for it.
+    9. Ask early and frequently if you want feedback.
+    10. Ask in the end if you want blessings.
+    11. Be continous, not episodic
+    12. Review in stages not in features
+    13. How to review?
+        - Go beyond coding styles
+        - Don't fix bug write test first
+        - Be constructive
+           - Don't say what is terrible
+           - Instead syat what can be better, how and why
+           - Make it safe to be honest
 - **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
 
 #### 28<sup>th</sup> April 2023
