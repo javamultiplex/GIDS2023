@@ -81,6 +81,12 @@
      - [InfoQ](https://www.infoq.com/)
      - [Dzone Refcards](https://dzone.com/refcardz)
      - [Thoughtworks Radar](https://www.thoughtworks.com/radar)
+     
+### 25 Years of Software Development: Inside the Zoho Success Story
+   1. Don't do heavy lifting in user thread.
+   2. Don't trust any input from user.
+   3. No single point of failure at ant level.
+   
 ### Software Architecture: The Hard Parts 
   1. How to analyze Trade-offs?
       - Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
