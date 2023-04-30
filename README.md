@@ -73,11 +73,23 @@
      - Fundamental of Software Architecture
      - Software Archiecture - The Hard Part
   2. The first law of software archiecture - *Everything in software architecture is a tradeoff* 
-  3. Daily invest atleast 20 mins on yourself to increase technical breadth
+  3. Tecnical Depth vs Technical Breadth
+     - Stuff you know - *Technical Depth*
+     - Stuff you know you don't know (+ Stuff you know) - *Technical Breadth*
+     - Stuff you don't know you don't know
+  4. Daily invest atleast 20 mins on yourself to increase technical breadth
      - [InfoQ](https://www.infoq.com/)
      - [Dzone Refcards](https://dzone.com/refcardz)
      - [Thoughtworks Radar](https://www.thoughtworks.com/radar)
-
+### Software Architecture: The Hard Parts 
+  1.How to analyze Trade-offs?
+     Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
+      - Watch out for "out of context" trap when analyzing trade-offs. - *Shared lib vs Shared service*
+      - Compare like to like
+      - Avoid over evangelizing a particular solution or technology - *Topic vs Queue*
+      - Don't overwhelem
+      - Use qualitative analysis to iterate on design, leading to quantative analysis
+  2. There is no silver bullet in software architecture
 ### Meta-modern Software Architecture
   1. Prefer duplication over coupling
   2. Data Mesh - *A data mesh is a decentralized data architecture that organizes data by a specific business domain—for example, marketing, sales, customer service, and more—providing more ownership to the producers of a given dataset*
