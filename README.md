@@ -146,6 +146,10 @@
            - Make it safe to be honest
 - **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
    1. p99 latency - *It's 99th percentile. It means that 99% of the requests should be faster than given latency. In other words only 1% of the requests are expected to be slower.*
+   2. Productive System Context Diagram - *Level 0 DFDs, also known as context diagrams, are the most basic data flow diagrams. They provide a broad view that is easily digestible but offers little detail. Level 0 data flow diagrams show a single process node and its connections to external entities.*
+   3. [DB Engines](https://db-engines.com/en/)
+   4. Response time - 250 milliseconds
+   5. Apache Spark
 
 #### 28<sup>th</sup> April 2023
 - **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford* :thumbsup:
