@@ -149,7 +149,7 @@
    2. Productive System Context Diagram - *Level 0 DFDs, also known as context diagrams, are the most basic data flow diagrams. They provide a broad view that is easily digestible but offers little detail. Level 0 data flow diagrams show a single process node and its connections to external entities.*
    3. [DB Engines](https://db-engines.com/en/)
    4. Response time - 250 milliseconds
-   5. Apache Spark
+   5. Apache Spark - *Apache Spark is an open-source, distributed processing system used for big data workloads. It utilizes in-memory caching, and optimized query execution for fast analytic queries against data of any size.*
 
 #### 28<sup>th</sup> April 2023
 - **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford* :thumbsup:
