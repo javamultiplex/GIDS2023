@@ -49,26 +49,6 @@
 
 #### 27<sup>th</sup> April 2023
 - **[How to Think Like an Architect](https://developersummit.com/session/how-to-think-like-an-architect)** - *Mark Richards* :thumbsup:
-- **[25 Years of Software Development: Inside the Zoho Success Story](https://developersummit.com/session/25-years-of-software-development-inside-the-zoho-success-story)** - *Hyther Nizam* :thumbsup:
-- **[Agile Architecture: Impactful Change for Complex Orgs](https://developersummit.com/session/agile-architecture-impactful-change-for-complex-orgs)** - *Rick Maharaj*
-- **[Software Architecture: The Hard Parts](https://developersummit.com/session/software-architecture-the-hard-parts)** - *Neal Ford* :thumbsup:
-- **[Patterns of Event-Driven Architecture](https://developersummit.com/session/patterns-of-event-driven-architecture)** - *Mark Richards* :thumbsup:
-- **[Six Essential Soft Skills for the Software Architect](https://developersummit.com/session/six-essential-soft-skills-for-the-software-architect)** - *Michael Carducci* :thumbsup:
-- **[Code Review, you said?](https://developersummit.com/session/code-review-you-said)** - *Venkat Subramaniam* :thumbsup:
-- **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
-
-#### 28<sup>th</sup> April 2023
-- **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford* :thumbsup:
-- **[Is your Code Net-zero?](https://developersummit.com/session/is-your-code-net-zero)** - *Gunasundari Sridhar*
-- **[Upgrade to Modern Java](https://developersummit.com/session/upgrade-to-modern-java)** - *Kenneth Kousen* :thumbsup:
-- **[Testing Software Architecture](https://developersummit.com/session/testing-software-architecture)** - *Mark Richards* :thumbsup:
-- **[Granularity & Communication for Microservice Architectures](https://developersummit.com/session/granularity-communication-for-microservice-architectures)** - *Neal Ford* :thumbsup:
-- **[Spring Apps at Scale - from 0 to 5B to 100B+ Requests](https://developersummit.com/session/spring-apps-at-scale-from-0-to-5b-to-100b-requests)** - *Josh Long*, *Asir Selvasingh* :thumbsup:
-- **[Decomposition Patterns](https://developersummit.com/session/decomposition-patterns)** - *Mark Richards* :thumbsup:
-
-
-## Take Away
-### How to Think Like an Architect
   1. Read these books
      - Fundamental of Software Architecture
      - Software Archiecture - The Hard Part
@@ -81,13 +61,22 @@
      - [InfoQ](https://www.infoq.com/)
      - [Dzone Refcards](https://dzone.com/refcardz)
      - [Thoughtworks Radar](https://www.thoughtworks.com/radar)
-     
-### 25 Years of Software Development: Inside the Zoho Success Story
+- **[25 Years of Software Development: Inside the Zoho Success Story](https://developersummit.com/session/25-years-of-software-development-inside-the-zoho-success-story)** - *Hyther Nizam* :thumbsup:
    1. Don't do heavy lifting in user thread.
    2. Don't trust any input from user.
    3. No single point of failure at ant level.
-
-### Patterns of Event-Driven Architecture
+- **[Agile Architecture: Impactful Change for Complex Orgs](https://developersummit.com/session/agile-architecture-impactful-change-for-complex-orgs)** - *Rick Maharaj*
+- **[Software Architecture: The Hard Parts](https://developersummit.com/session/software-architecture-the-hard-parts)** - *Neal Ford* :thumbsup:
+  1. How to analyze Trade-offs?
+      - Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
+      - Watch out for "out of context" trap when analyzing trade-offs. - *Shared lib vs Shared service*
+      - Model relevant business scenarios to extract trade-offs - *One payment service vs Multiple services with each payment type*
+      - Compare like things - *MECE lists (Mutually exclusive [no overlaps], Collectively exhuastive[cover entire space])* 
+      - Avoid over evangelizing a particular solution or technology - *Topic vs Queue*
+      - Don't overwhelem your business stakeholders with too many trade-off choices - *Sync vs Async*
+      - Use qualitative analysis to iterate on design, leading to quantative analysis
+  2. There is no silver bullet in software architecture 
+- **[Patterns of Event-Driven Architecture](https://developersummit.com/session/patterns-of-event-driven-architecture)** - *Mark Richards* :thumbsup:
    1. Event Driven vs Message Driven
    
    |Event Driven|Message Driven|
@@ -101,8 +90,7 @@
    3. Domain broker pattern
    4. Workflow state pattern
    5. Multibroker pattern
- 
-### Six Essential Soft Skills for the Software Architect
+- **[Six Essential Soft Skills for the Software Architect](https://developersummit.com/session/six-essential-soft-skills-for-the-software-architect)** - *Michael Carducci* :thumbsup:
    1. Value driven development
    2. Problem space thinking
    3. Communication - *Think, Act and Communicate strategically*
@@ -114,23 +102,16 @@
          - Personal Kanban Board
    5. Empthy - *Empthy means feeling with, Sympathy means feeling for*
    6. Curosity
+- **[Code Review, you said?](https://developersummit.com/session/code-review-you-said)** - *Venkat Subramaniam* :thumbsup:
+- **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
 
-### Software Architecture: The Hard Parts 
-  1. How to analyze Trade-offs?
-      - Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
-      - Watch out for "out of context" trap when analyzing trade-offs. - *Shared lib vs Shared service*
-      - Model relevant business scenarios to extract trade-offs - *One payment service vs Multiple services with each payment type*
-      - Compare like things - *MECE lists (Mutually exclusive [no overlaps], Collectively exhuastive[cover entire space])* 
-      - Avoid over evangelizing a particular solution or technology - *Topic vs Queue*
-      - Don't overwhelem your business stakeholders with too many trade-off choices - *Sync vs Async*
-      - Use qualitative analysis to iterate on design, leading to quantative analysis
-  2. There is no silver bullet in software architecture
-### Meta-modern Software Architecture
+#### 28<sup>th</sup> April 2023
+- **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford* :thumbsup:
   1. Prefer duplication over coupling
   2. Data Mesh - *A data mesh is a decentralized data architecture that organizes data by a specific business domain—for example, marketing, sales, customer service, and more—providing more ownership to the producers of a given dataset*
   3. Service Mesh - *In software architecture, a service mesh is a dedicated infrastructure layer for facilitating service-to-service communications between services or microservices using a proxy*
-
-### Upgrade to Modern Java
+- **[Is your Code Net-zero?](https://developersummit.com/session/is-your-code-net-zero)** - *Gunasundari Sridhar*
+- **[Upgrade to Modern Java](https://developersummit.com/session/upgrade-to-modern-java)** - *Kenneth Kousen* :thumbsup:
   1. Java is Agile because of 6 month release cycle after Java 10.
   2. JDK 20 released in March 2023 and JDK 17 is LTS.
   3. Function Interface
@@ -150,28 +131,8 @@
   14. Switch expressions
   15. Pattern matching for switch expressions
   16. JPMS(Java Platform Module System) is good for only public libraries
-
-### Granularity & Communication for Microservice Architectures
-  1. Service granularity disintegrators - *When should I consider breaking apart a service*
-     - service functionality
-     - code volatality
-     - throughput and scalability
-     - fault tolerance
-     - access restriction
-  2. Service granularity integrators - *When should I consider putting services back together*
-     - database transactions
-     - data dependencies
-     - workflow & coreography 
-  3. Difference between Synchronous and Asynchronous communication
-  4. Difference between Orchetration and Choreography workflows
-  5. Distributed transactions are very difficult to implement, if possible we should try to avoid it
-  6. Transactional Sagas - *Total 8 sagas possible based on below combinations*
-     - Communication - Sync/Async
-     - Consistency - Atomic/Eventual
-     - Coordination - Orchestration/Choreography
-      
-### Testing Software Architecture
-   1. Operational Characteristics
+- **[Testing Software Architecture](https://developersummit.com/session/testing-software-architecture)** - *Mark Richards* :thumbsup:
+  1. Operational Characteristics
       - Performance
       - responsiveness
       - availability
@@ -189,14 +150,30 @@
    3. Fitness functions - *An architectural fitness function provides an objective integrity assesement of some architectureal characteristic(s).*
       - Triggered - *Pre Production*
       - Continious - *Post Production*
-
-### Spring Apps at Scale - from 0 to 5B to 100B+ Requests
+- **[Granularity & Communication for Microservice Architectures](https://developersummit.com/session/granularity-communication-for-microservice-architectures)** - *Neal Ford* :thumbsup:
+  1. Service granularity disintegrators - *When should I consider breaking apart a service*
+     - service functionality
+     - code volatality
+     - throughput and scalability
+     - fault tolerance
+     - access restriction
+  2. Service granularity integrators - *When should I consider putting services back together*
+     - database transactions
+     - data dependencies
+     - workflow & coreography 
+  3. Difference between Synchronous and Asynchronous communication
+  4. Difference between Orchetration and Choreography workflows
+  5. Distributed transactions are very difficult to implement, if possible we should try to avoid it
+  6. Transactional Sagas - *Total 8 sagas possible based on below combinations*
+     - Communication - Sync/Async
+     - Consistency - Atomic/Eventual
+     - Coordination - Orchestration/Choreography
+- **[Spring Apps at Scale - from 0 to 5B to 100B+ Requests](https://developersummit.com/session/spring-apps-at-scale-from-0-to-5b-to-100b-requests)** - *Josh Long*, *Asir Selvasingh* :thumbsup:
    1. [Azure Spring Apps](https://azure.microsoft.com/en-au/products/spring-apps/) - *Build and deploy Spring Boot applications with a fully managed service from Microsoft and VMware.*
    2. Spring Cache
    3. Reactive Spring
-   4. Spring Native - GraalVM
-
-### Decomposition Patterns
+   4. Spring Native - GraalVM 
+- **[Decomposition Patterns](https://developersummit.com/session/decomposition-patterns)** - *Mark Richards* :thumbsup:
    1. Identify and size logical components - *The larger the component the more coupled it is from rest of the system*
    2. Flatten components - *Root namespaces(packages) should not have any code in it*
    3. Analyze component dependencies - *There are tools available*
@@ -207,4 +184,5 @@
    6. Microservices system - 
       - It is not mandatory to break each domain service to microservices
       - Each microservice should have seperate database
+ 
 
