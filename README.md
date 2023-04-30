@@ -145,6 +145,7 @@
            - Instead syat what can be better, how and why
            - Make it safe to be honest
 - **[Mastering Cloud Scalability and System Designs Deep-dive](https://developersummit.com/session/mastering-cloud-scalability-and-system-designs-deep-dive)** - *Rohit Bhardwaj*
+   1. p99 latency - *It's 99th percentile. It means that 99% of the requests should be faster than given latency. In other words only 1% of the requests are expected to be slower.*
 
 #### 28<sup>th</sup> April 2023
 - **[Meta-modern Software Architecture](https://developersummit.com/session/meta-modern-software-architecture)** - *Neal Ford* :thumbsup:
