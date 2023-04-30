@@ -100,6 +100,20 @@
    2. Event forwarding pattern
    3. Domain broker pattern
    4. Workflow state pattern
+   5. Multibroker pattern
+ 
+### Six Essential Soft Skills for the Software Architect
+   1. Value driven development
+   2. Problem space thinking
+   3. Communication - *Think, Act and Communicate strategically*
+   4. Time management
+      - Deep work is rare, valuable and meaningfull
+      - Shallow work is easily replicable
+      - Tools
+         - RescueTime
+         - Personal Kanban Board
+   5. Empthy - *Empthy means feeling with, Sympathy means feeling for*
+   6. Curosity
 
 ### Software Architecture: The Hard Parts 
   1. How to analyze Trade-offs?
