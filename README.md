@@ -82,7 +82,7 @@
      - [Dzone Refcards](https://dzone.com/refcardz)
      - [Thoughtworks Radar](https://www.thoughtworks.com/radar)
 ### Software Architecture: The Hard Parts 
-  1.How to analyze Trade-offs?
+  1. How to analyze Trade-offs?
      Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
       - Watch out for "out of context" trap when analyzing trade-offs. - *Shared lib vs Shared service*
       - Compare like to like
