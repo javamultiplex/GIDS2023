@@ -83,11 +83,12 @@
      - [Thoughtworks Radar](https://www.thoughtworks.com/radar)
 ### Software Architecture: The Hard Parts 
   1. How to analyze Trade-offs?
-     Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
+      - Business Drivers (*Time to market*) -> Architecture Characteristics (*Maintainability*,*Testability*,*Deployability*) -> Trade off Analysis (*Performance*,*Maintenance*)
       - Watch out for "out of context" trap when analyzing trade-offs. - *Shared lib vs Shared service*
-      - Compare like to like
+      - Model relevant business scenarios to extract trade-offs - *One payment service vs Multiple services with each payment type*
+      - Compare like things - *MECE lists (Mutually exclusive [no overlaps], Collectively exhuastive[cover entire space])* 
       - Avoid over evangelizing a particular solution or technology - *Topic vs Queue*
-      - Don't overwhelem
+      - Don't overwhelem your business stakeholders with too many trade-off choices - *Sync vs Async*
       - Use qualitative analysis to iterate on design, leading to quantative analysis
   2. There is no silver bullet in software architecture
 ### Meta-modern Software Architecture
