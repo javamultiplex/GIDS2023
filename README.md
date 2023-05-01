@@ -74,6 +74,9 @@
   9. Commit frequently so you can reduce the cost of undo to near zero 
   10. Avoid clever code - Keep it simple
   11. Make it small and cohesive
+  12. Discuss before doing any refactoring
+  13. Never do big bang refactoring
+  14. Only refactor if test cases are avaiable (manual or automated) - Test cases do validation
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
   1. KEDA (Kubernetes Event Driven Autoscalling)
   2. Quarkus
