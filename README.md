@@ -41,7 +41,16 @@
 - **[Journey to 500M - An Engineer’s view](https://developersummit.com/session/journey-to-500m-an-engineers-view)** - *Rajeev Purohit*
 - **[Future with Large Language Models](https://developersummit.com/session/future-with-large-language-models)** - *Prashanth Subrahmanyam*
 - **[15 Best Practices for Designing Enterprise RESTful APIs in the Cloud](https://developersummit.com/session/15-best-practices-for-designing-enterprise-restful-apis-in-the-cloud)** - *Rohit Bhardwaj*
-  1. 
+  1. [oData](https://www.odata.org/)
+  2. [Schema.org](https://schema.org/)
+  3. [JSON-LD](https://json-ld.org/)
+  4. URL Size - *3000 char*
+  5. Date/Time - *ISO - 8601 Standard - https://www.w3.org/TR/NOTE-datetime*
+  6. Bounded Context
+  7. Output validation is more important then input validation
+  8. [API Security](https://apisecurity.io/)
+  9. Entity Tags (ETag)
+  10. [OWASP API Security](https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm)
 - **[How to Approach Refactoring](https://developersummit.com/session/how-to-approach-refactoring)** - *Venkat Subramaniam* :thumbsup:
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
   1. KEDA (Kubernetes Event Driven Autoscalling)
