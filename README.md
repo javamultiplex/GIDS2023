@@ -71,6 +71,11 @@
   10. Grouping()
   11. Teeing()
 - **[Designing Applications with Functional Programming Constructs](https://developersummit.com/session/designing-applications-with-functional-programming-constructs)** - *Venkat Subramaniam* :thumbsup:
+   1. Functional Style == Functional Composition (It is an approach where the result of one function is passed on to the next function, which is passed to another until the final function is executed for the final result. Function compositions can be composed of any number of functions)
+   2. Functional Programming == Functional Composition + Lazy Evaluation.
+   3. Polymorphism is to Object Oriented Programming as Lazy Evaluation is to Functional Programming.
+   4. Functional Programming relies on Lazy Evaluation for efficiency. 
+   5. Elm uses 99.9% haskell syntaz plus a tinch of F# syntax compiles down to Javascript.
 
 #### 27<sup>th</sup> April 2023
 - **[How to Think Like an Architect](https://developersummit.com/session/how-to-think-like-an-architect)** - *Mark Richards* :thumbsup:
