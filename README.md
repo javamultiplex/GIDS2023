@@ -33,6 +33,13 @@
 - **[Event Messaging and Streaming with Apache Pulsar](https://developersummit.com/session/event-messaging-and-streaming-with-apache-pulsar)** - *Mary Grygleski* :thumbsup:
 - **[The Amazing Features of Modern Java](https://developersummit.com/session/the-amazing-features-of-modern-java)** - *Venkat Subramaniam* :thumbsup:
 - **[Improving the Quality of JavaScript Code](https://developersummit.com/session/improving-the-quality-of-javascript-code)** - *Venkat Subramaniam* :thumbsup:
+  1. Use const as much as possible
+  2. Use let where const is not possible
+  3. Quit using var
+  4. "use strict"
+  5. Code quality tools
+    - ESlint - *eslint src*
+    - Plato - Cyclomatic Complexity - *plato -r -d reports src*
 - **[Live Coding: Cloud-native Application Development with MicroProfile & Open Liberty](https://developersummit.com/session/live-coding-cloud-native-application-development-with-microprofile-open-liberty)** - *Emily Jiang*
 
 #### 26<sup>th</sup> April 2023
