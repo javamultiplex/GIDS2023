@@ -65,6 +65,8 @@
   7. Comment why and not what
   8. Don't comment bad code instead refactor it
   9. Commit frequently so you can reduce the cost of undo to near zero 
+  10. Avoid clever code - Keep it simple
+  11. Make it small and cohesive
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
   1. KEDA (Kubernetes Event Driven Autoscalling)
   2. Quarkus
