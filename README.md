@@ -41,6 +41,7 @@
 - **[Journey to 500M - An Engineer’s view](https://developersummit.com/session/journey-to-500m-an-engineers-view)** - *Rajeev Purohit*
 - **[Future with Large Language Models](https://developersummit.com/session/future-with-large-language-models)** - *Prashanth Subrahmanyam*
 - **[15 Best Practices for Designing Enterprise RESTful APIs in the Cloud](https://developersummit.com/session/15-best-practices-for-designing-enterprise-restful-apis-in-the-cloud)** - *Rohit Bhardwaj*
+  1. 
 - **[How to Approach Refactoring](https://developersummit.com/session/how-to-approach-refactoring)** - *Venkat Subramaniam* :thumbsup:
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
   1. KEDA (Kubernetes Event Driven Autoscalling)
