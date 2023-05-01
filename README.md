@@ -52,6 +52,11 @@
   9. Entity Tags (ETag)
   10. [OWASP API Security](https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm)
 - **[How to Approach Refactoring](https://developersummit.com/session/how-to-approach-refactoring)** - *Venkat Subramaniam* :thumbsup:
+  1. You can't be agile if your code sucks.
+  2. Code is how we tell out collegues how we feel about them.
+  3. Coding is an act of Empthy (The ability to understand another person's thoughts and feelings in a situation from their point of view, rather than your own).
+  4. Sometime you have to slow down in order to gain speed.
+  5. 
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
   1. KEDA (Kubernetes Event Driven Autoscalling)
   2. Quarkus
