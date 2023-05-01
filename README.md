@@ -56,7 +56,15 @@
   2. Code is how we tell out collegues how we feel about them.
   3. Coding is an act of Empthy (The ability to understand another person's thoughts and feelings in a situation from their point of view, rather than your own).
   4. Sometime you have to slow down in order to gain speed.
-  5. 
+     - Simplicity
+     - Clarity
+     - Brevity (The state of being short or quick)
+     - Humanity
+ 5. SLAP - Single level of abstraction principle (Convey the what and delegate the how)
+ 6. Code is like people on a crowded train
+ 7. Comment why and not what
+ 8. Don't comment bad code instead refactor it
+ 9. Commit frequently so you can reduce the cost of undo to near zero 
 - **[Event-driven Autoscaling for Serverless Java](https://developersummit.com/session/event-driven-autoscaling-for-serverless-java)** - *Daniel Oh*
   1. KEDA (Kubernetes Event Driven Autoscalling)
   2. Quarkus
