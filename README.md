@@ -38,7 +38,7 @@
   3. Quit using var
   4. "use strict"
   5. Code quality tools
-    - ESlint - *eslint src*
+    - ESLint - Static code analysis tool - *eslint src*
     - Plato - Cyclomatic Complexity - *plato -r -d reports src*
 - **[Live Coding: Cloud-native Application Development with MicroProfile & Open Liberty](https://developersummit.com/session/live-coding-cloud-native-application-development-with-microprofile-open-liberty)** - *Emily Jiang*
 
